@@ -37,4 +37,5 @@ p{
 
 .header-background{
   background-image: url(https://liamchalloner.github.io/broadway/Resources/Images/the-flatiron-building.png);
+      background-size: cover;
 }

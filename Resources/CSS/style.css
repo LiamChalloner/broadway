@@ -57,6 +57,12 @@ p{
 .footer{
   background-color: dimgray;
 }
+.footer-heading{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+}
 a{
   color: white;
 }

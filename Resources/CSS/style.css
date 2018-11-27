@@ -9,8 +9,7 @@ font-family: Helvetica;
 font-size: 70px;
 font-weight: bold;
 color: white;
-text-align: center;
-    width: 1887px
+width: auto;
 }
 
 h4{
@@ -18,7 +17,6 @@ h4{
   font-size: 18px;
   color: white;
   text-align: center;
-      width: 1887px
 }
 
 h2{
@@ -35,8 +33,8 @@ h5{
 font-size: 23px;
 font-weight: bold;
 color: white;
-width: 1887px !important;
 text-align: center;
+width: auto;
 }
 
 /* Normal Text */
@@ -48,6 +46,7 @@ p{
 .header-background{
   background-image: url(https://liamchalloner.github.io/broadway/Resources/Images/the-flatiron-building.png);
   background-size: cover;
+  width: auto;
 }
 .footer-stuff{
   text-align: left !important;

@@ -34,7 +34,7 @@ font-size: 23px;
 font-weight: bold;
 color: white;
 text-align: center;
-width: auto;
+width: auto !important;
 }
 
 /* Normal Text */

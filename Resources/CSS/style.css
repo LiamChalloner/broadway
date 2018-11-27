@@ -31,6 +31,12 @@ font-size: 23px;
 font-weight: bold;
 }
 
+h5{
+font-size: 23px;
+font-weight: bold;
+color: white;
+}
+
 /* Normal Text */
 
 p{
@@ -39,6 +45,15 @@ p{
 
 .header-background{
   background-image: url(https://liamchalloner.github.io/broadway/Resources/Images/the-flatiron-building.png);
-      background-size: cover;
-          width: 3000px;
+  background-size: cover;
+  width: 3000px;
+}
+.footer-stuff{
+  text-align: left !important;
+  font-size: 11px;
+  color: white;
+}
+
+.footer{
+  background-color: dimgray;
 }

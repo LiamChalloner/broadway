@@ -1,0 +1,36 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/* Headings */
+h1{
+font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+color: white;
+text-align: center;
+}
+
+h4{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+font-size: 32px;
+font-weight: bold;
+}
+
+h3{
+font-size: 23px;
+font-weight: bold;
+}
+
+/* Normal Text */
+
+p{
+  font-size: 14px;
+}
